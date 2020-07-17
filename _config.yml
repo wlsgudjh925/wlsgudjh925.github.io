@@ -1,0 +1,9 @@
+name: Alpha
+description: Alphs template for Jekyll
+baseurl: ""
+
+url: "https://wlsgudjh925.github.io"
+
+paginate: 10
+
+remote_theme: Alpha-Jekyll-Theme
